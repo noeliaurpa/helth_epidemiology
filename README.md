@@ -1,4 +1,4 @@
-# helth_epidemiology
+# Helth epidemiology
 This analysis applied clustering techniques to segment a population based on health-related variables such as age, smoking habits, and chronic diseases. During the process, it became evident that traditional visualizations did not clearly reveal group structures. Therefore, dimensionality reduction techniques like t-SNE and interactive 3D visualizations with Plotly were used. The K-Means algorithm was the most suitable model, successfully forming well-defined and interpretable clusters. The results showed patterns consistent with real-world trends, highlighting the potential of this type of analysis to support decision-making in areas such as public health and personalized medicine.
 
 Task applied:
